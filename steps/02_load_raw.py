@@ -79,3 +79,10 @@ if __name__ == "__main__":
 #    validate_raw_tables(session)
 
     session.close()
+
+
+
+
+
+
+
